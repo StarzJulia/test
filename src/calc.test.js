@@ -1,7 +1,7 @@
-it('2 = 2', () => {
-    expect(2).toBe(2);
+it('2 + 2 = 4', () => {
+    expect(2 + 2).toBe(4);
 })
 
-it('3 = 3', () => {
-    expect(3).toBe(3);
+it('6 = 6', () => {
+    expect(6).toBe(6);
 })
